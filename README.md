@@ -1,6 +1,6 @@
 ### About me🧑:
-I am <b>Muhammad Hashim Shafiq</b> from Pakistan, currently living in Germany.<br/>
-I am working as Software Engineer - Android.<br/>
+I am <b>Hashim Shafiq</b><br/>
+I am working as a Security Engineer<br/>
 
 
 
